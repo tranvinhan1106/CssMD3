@@ -11,16 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61b15372-4213-426e-bc7c-19b35a8795e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Css.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Css01/pratice/BaiTap1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Css01/pratice/BaiTap1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Css01/pratice/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Css01/exercise/BaiTap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -54,6 +46,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\V.An\Css\Css\src\Css01\exercise" />
       <recent name="D:\V.An\Css\Css\src\Css01\pratice" />
       <recent name="D:\V.An\Css\Css\src\Css01" />
     </key>
@@ -70,7 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1687344972504</updated>
       <workItem from="1687344973854" duration="1000" />
-      <workItem from="1687345469202" duration="1518000" />
+      <workItem from="1687345469202" duration="4964000" />
+      <workItem from="1687523509172" duration="1123000" />
     </task>
     <servers />
   </component>
@@ -87,5 +81,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
